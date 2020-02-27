@@ -18,6 +18,6 @@ Just use `.stylelintrc` and `.stylelintignore` under project root directory. See
 
 ## Todo
 
-This extension only support `.stylelintignore` under the porject root(ie. `process.cwd()`) now.
+This extension only support `.stylelintignore` under the project root(ie. `process.cwd()`) now.
 
 In the future it should support loop scanning of ignore files form directory of current open file to the project root.
